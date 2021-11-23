@@ -4,7 +4,7 @@ repo that shows what i learned with c++
 
 what i created
 ---
-with my current knowledge i created something basic, but something always usefull:
+with my current knowledge i created something basic, but something always useful:
 
 **calculator**
 
