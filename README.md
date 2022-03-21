@@ -1,10 +1,10 @@
 cpp-learning-1
 ===
-repo that shows what i learned with c++
+repo that shows what I learned with c++
 
 what i created
 ---
-with my current knowledge i created something basic, but something always useful:
+with my current c++ knowledge, I created something basic, but something always useful:
 
 **calculator**
 
